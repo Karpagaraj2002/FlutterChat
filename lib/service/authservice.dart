@@ -1,0 +1,36 @@
+final List<Map<dynamic, String>> taskDetail =[
+{
+"TaskNo": "FE20010",
+"TaskDate": "19/07/2024",
+"Project": "FINERP2",
+"AssignTo": "karpagaraj",
+"TaskStatus": "Assigned",
+"TaskOwner": "karpaga Raj",
+"TaskPriority": "high",
+"SpentHours": "89:40",
+  "DueDate": "20/07/2024",
+},
+  {
+    "TaskNo": "FE20010",
+    "TaskDate": "19/07/2024",
+    "Project": "FINERP2",
+    "AssignTo": "Surya",
+    "TaskStatus": "In-progcess",
+    "TaskOwner": "Surya",
+    "TaskPriority": "medium",
+    "SpentHours": "89:40",
+    "DueDate": "25/07/2024",
+  },
+  {
+    "TaskNo": "WE20010",
+    "TaskDate": "31/07/2024",
+    "Project": "Web3-eliteHrms",
+    "AssignTo": "Naveen",
+    "TaskStatus": "In-progcess",
+    "TaskOwner": "Surya",
+    "TaskPriority": "low",
+    "SpentHours": "189:40",
+    "DueDate": "25/08/2024",
+  },
+
+];
